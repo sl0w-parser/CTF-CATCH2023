@@ -5,7 +5,7 @@ Validní flagy každého úkolu:
 - `FLAG{xxxx-xxxx-xxxx-xxxx}`
 - `flag{xxxx-xxxx-xxxx-xxxx}`
 
-Jednotlivé úlohy:
+Moje Writeupy:
 - Sailor training center
      - [VPN access](writeup/02-01-VPN_access.md)
      - [Treasure map](writeups/02-02-Treasure_map.md)
@@ -29,3 +29,16 @@ Jednotlivé úlohy:
 - Miscellaneous
      - [Naval chef's recipe](writeups/06-01-Naval_chefs_recipe.md)
      - Arkanoid
+
+Cizí writeupy: https://www.thecatch.cz/write-ups
+- http://brano2.blogspot.com/search/label/thecatch
+- https://github.com/engycz/CTF/tree/main/2023%20-%20The%20Catch#readme
+- https://github.com/zavinator/ctf-public/tree/master/2023-The-Catch
+- https://github.com/zavinator/ctf-public/tree/master/2023-The-Catch
+- https://github.com/arkamar/thecatch23
+- https://gist.github.com/radimkohout/6fa7fa06c6ed82abf09b8a8a3664ce43
+- https://github.com/setnicka/TheCatch2023
+- https://github.com/spamik/thecatch_2023
+- https://ipmil.civ.zcu.cz/stan/the-catch-2023
+- https://hd.tunasec.com/s/H9pxewY1p
+- https://jandurovec.github.io/the-catch-2023/
