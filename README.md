@@ -7,7 +7,7 @@ Validní flagy každého úkolu:
 
 Moje Writeupy:
 - Sailor training center
-     - [VPN access](writeup/02-01-VPN_access.md)
+     - [VPN access](writeups/02-01-VPN_access.md)
      - [Treasure map](writeups/02-02-Treasure_map.md)
      - [Captain's coffee](writeups/02-03-Captains_coffee.md)
      - [Ship web server](writeups/02-04-Ship_web_server.md)
