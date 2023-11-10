@@ -20,7 +20,7 @@ Jednotlivé úlohy:
      - [Captain's password](writeups/04-01-Captains_password.md)
      - [Navigation plan](writeups/04-02-Navigation_plan.md)
      - [Keyword of the day](writeups/04-03-Keyword_of_the_day.md)
-     - [Signal flags](writeups/)
+     - Signal flags
 - Below deck troubles
      - [Cat code](writeups/05-01-Cat_code.md)
      - [Component replacement](writeups/05-02-Component_replacement.md)
